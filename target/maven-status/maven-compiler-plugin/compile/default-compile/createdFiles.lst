@@ -1,0 +1,6 @@
+com\view1\U3_Base_de_datos.class
+com\model\Personal.class
+com\data\Conexion.class
+com\view1\framePersonal$1.class
+com\data\PersonalDAO.class
+com\view1\framePersonal.class
