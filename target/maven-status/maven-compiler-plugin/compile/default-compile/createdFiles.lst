@@ -1,6 +1,10 @@
+com\data\ProductoDAO.class
+com\view1\frameProductos$1.class
+com\model\Producto.class
+com\view1\framePersonal.class
 com\view1\U3_Base_de_datos.class
 com\model\Personal.class
+com\view1\frameProductos.class
 com\data\Conexion.class
 com\view1\framePersonal$1.class
 com\data\PersonalDAO.class
-com\view1\framePersonal.class
